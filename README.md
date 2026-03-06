@@ -1,6 +1,5 @@
 # 🛒 Retail Sales Analysis using SQL
 
-
 📌 Project Overview
 
 This project focuses on analyzing retail sales data using SQL to uncover meaningful business insights. I designed structured tables, performed advanced queries, and applied analytical SQL techniques such as joins, aggregations, window functions, and ranking to solve real-world retail business problems.
